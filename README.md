@@ -1,2 +1,3 @@
 # search-bar
-simple search bar using bootstrap5
+Simple search bar using Bootstrap 5
+preview - https://minhazfaisal.github.io/search-bar/
