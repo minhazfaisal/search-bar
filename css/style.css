@@ -1,0 +1,25 @@
+.btn_s{
+	border: 0;
+}
+.ddm{
+	padding: 15px 0 15px 15px;
+	width: 400px;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 50px;
+    left: -329px;
+    margin-top: 0;
+}
+
+.ddm input{
+	width: 88%;
+	border: 0;
+}
+.ddm input:focus{
+	outline: none;
+}
+.ddm button{
+	width: 10%;
+	border: 0;
+	background-color: transparent;
+}
